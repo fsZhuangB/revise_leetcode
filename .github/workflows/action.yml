@@ -48,7 +48,7 @@ jobs:
           git config --global user.email fszhuangb@gmail.com
           git config --global user.name fszhuangb
           git add .
-          git commit -m "update" -a
+          git diff --exit-code || git commit -am "update"
 
 
       - name: Push changes
