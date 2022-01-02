@@ -21,9 +21,13 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-02 11:52 | [#680 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii) | EASY | 1 | 1 |
+| 2022-01-02 11:28 | [#125 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | EASY | 2 | 1 |
+| 2022-01-02 10:57 | [#16 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) | MEDIUM | 6 | **2** |
+| 2022-01-02 10:30 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 3 | 1 |
+| 2022-01-02 10:04 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 2 | **2** |
 | 2022-01-01 12:35 | [#2022 将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array) | EASY | 2 | 1 |
 | 2022-01-01 11:23 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 1 | 1 |
-| 2022-01-01 11:18 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 1 | 1 |
 | 2022-01-01 10:42 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 11 | **4** |
 | 2022-01-01 09:49 | [#11 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | MEDIUM | 3 | **2** |
 | 2022-01-01 09:43 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 14 | **5** |
@@ -70,7 +74,6 @@
 | 2021-12-10 10:42 | [#203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | EASY | 3 | **2** |
 | 2021-12-09 13:26 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 11 | **5** |
 | 2021-12-09 13:01 | [#237 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | EASY | 1 | 1 |
-| 2021-12-07 11:22 | [#16 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) | MEDIUM | 4 | 1 |
 | 2021-12-06 09:05 | [#剑指 Offer 05 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof) | EASY | 1 | 1 |
 | 2021-12-06 08:28 | [#27 移除元素](https://leetcode-cn.com/problems/remove-element) | EASY | 8 | **4** |
 | 2021-12-06 08:00 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 6 | **2** |
