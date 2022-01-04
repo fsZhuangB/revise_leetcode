@@ -21,10 +21,17 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-01-02 11:52 | [#680 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii) | EASY | 1 | 1 |
+| 2022-01-03 13:18 | [#572 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | EASY | 1 | 1 |
+| 2022-01-03 12:15 | [#100 相同的树](https://leetcode-cn.com/problems/same-tree) | EASY | 1 | 1 |
+| 2022-01-03 12:03 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 2 | 1 |
+| 2022-01-03 11:30 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | EASY | 1 | 1 |
+| 2022-01-03 11:23 | [#144 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | EASY | 3 | 1 |
+| 2022-01-03 10:59 | [#680 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii) | EASY | 3 | **2** |
+| 2022-01-03 10:49 | [#16 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) | MEDIUM | 8 | **3** |
+| 2022-01-03 10:26 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 6 | **2** |
+| 2022-01-03 09:31 | [#1185 一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week) | EASY | 1 | 1 |
+| 2022-01-02 21:14 | [#390 消除游戏](https://leetcode-cn.com/problems/elimination-game) | MEDIUM | 2 | 1 |
 | 2022-01-02 11:28 | [#125 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | EASY | 2 | 1 |
-| 2022-01-02 10:57 | [#16 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) | MEDIUM | 6 | **2** |
-| 2022-01-02 10:30 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 3 | 1 |
 | 2022-01-02 10:04 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 2 | **2** |
 | 2022-01-01 12:35 | [#2022 将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array) | EASY | 2 | 1 |
 | 2022-01-01 11:23 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 1 | 1 |
