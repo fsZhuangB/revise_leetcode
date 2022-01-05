@@ -21,9 +21,14 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-05 13:44 | [#1576 替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters) | EASY | 3 | 1 |
+| 2022-01-05 13:13 | [#165 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | MEDIUM | 1 | 1 |
+| 2022-01-05 11:10 | [#350 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | EASY | 3 | 1 |
+| 2022-01-05 10:15 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 10 | **3** |
+| 2022-01-04 12:20 | [#167 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | EASY | 4 | 1 |
+| 2022-01-04 12:00 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 3 | **2** |
 | 2022-01-03 13:18 | [#572 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | EASY | 1 | 1 |
 | 2022-01-03 12:15 | [#100 相同的树](https://leetcode-cn.com/problems/same-tree) | EASY | 1 | 1 |
-| 2022-01-03 12:03 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 2 | 1 |
 | 2022-01-03 11:30 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | EASY | 1 | 1 |
 | 2022-01-03 11:23 | [#144 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | EASY | 3 | 1 |
 | 2022-01-03 10:59 | [#680 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii) | EASY | 3 | **2** |
@@ -83,7 +88,6 @@
 | 2021-12-09 13:01 | [#237 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | EASY | 1 | 1 |
 | 2021-12-06 09:05 | [#剑指 Offer 05 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof) | EASY | 1 | 1 |
 | 2021-12-06 08:28 | [#27 移除元素](https://leetcode-cn.com/problems/remove-element) | EASY | 8 | **4** |
-| 2021-12-06 08:00 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 6 | **2** |
 | 2021-12-04 10:23 | [#977 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | EASY | 2 | 1 |
 | 2021-12-03 07:56 | [#202 快乐数](https://leetcode-cn.com/problems/happy-number) | EASY | 2 | 1 |
 | 2021-12-03 07:33 | [#49 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams) | MEDIUM | 2 | **2** |
