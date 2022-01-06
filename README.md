@@ -21,12 +21,18 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-06 10:40 | [#222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes) | MEDIUM | 1 | 1 |
+| 2022-01-06 10:33 | [#107 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | MEDIUM | 1 | 1 |
+| 2022-01-06 10:29 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | EASY | 2 | 1 |
+| 2022-01-06 10:09 | [#559 N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) | EASY | 1 | 1 |
+| 2022-01-06 09:56 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 5 | **3** |
+| 2022-01-06 09:07 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 5 | **3** |
+| 2022-01-06 08:43 | [#165 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | MEDIUM | 2 | **2** |
+| 2022-01-06 08:29 | [#350 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | EASY | 6 | **2** |
+| 2022-01-06 08:16 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 12 | **4** |
+| 2022-01-05 22:30 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 12 | **5** |
 | 2022-01-05 13:44 | [#1576 替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters) | EASY | 3 | 1 |
-| 2022-01-05 13:13 | [#165 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | MEDIUM | 1 | 1 |
-| 2022-01-05 11:10 | [#350 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | EASY | 3 | 1 |
-| 2022-01-05 10:15 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 10 | **3** |
 | 2022-01-04 12:20 | [#167 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | EASY | 4 | 1 |
-| 2022-01-04 12:00 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 3 | **2** |
 | 2022-01-03 13:18 | [#572 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | EASY | 1 | 1 |
 | 2022-01-03 12:15 | [#100 相同的树](https://leetcode-cn.com/problems/same-tree) | EASY | 1 | 1 |
 | 2022-01-03 11:30 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | EASY | 1 | 1 |
@@ -40,7 +46,6 @@
 | 2022-01-02 10:04 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 2 | **2** |
 | 2022-01-01 12:35 | [#2022 将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array) | EASY | 2 | 1 |
 | 2022-01-01 11:23 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 1 | 1 |
-| 2022-01-01 10:42 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 11 | **4** |
 | 2022-01-01 09:49 | [#11 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | MEDIUM | 3 | **2** |
 | 2022-01-01 09:43 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 14 | **5** |
 | 2021-12-31 08:27 | [#226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | EASY | 4 | **2** |
@@ -126,7 +131,6 @@
 | 2020-05-10 09:21 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | EASY | 4 | **2** |
 | 2020-05-09 19:39 | [#66 加一](https://leetcode-cn.com/problems/plus-one) | EASY | 5 | 1 |
 | 2020-05-03 17:34 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 1 | 1 |
-| 2020-05-03 16:39 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 3 | **2** |
 | 2020-05-03 15:38 | [#剑指 Offer 18 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof) | EASY | 4 | **2** |
 | 2020-05-02 10:05 | [#面试题 02.06 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list-lcci) | EASY | 5 | 1 |
 | 2020-05-02 09:25 | [#9 回文数](https://leetcode-cn.com/problems/palindrome-number) | EASY | 15 | **3** |
