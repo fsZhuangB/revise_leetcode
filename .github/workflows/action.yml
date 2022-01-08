@@ -42,17 +42,21 @@ jobs:
       - name: Get LeetCode Data
         run: python leetcode.py ${{ secrets.LEETCODE_EMAIL }} ${{ secrets.LEETCODE_PASSWORD }}
 
-
-      - name: commit
-        run: |
-          git config --global user.email fszhuangb@gmail.com
-          git config --global user.name fszhuangb
-          git add .
-          git diff --exit-code || git commit -am "update"
-
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN}}
+          commit_message: Update changes
+
+      # - name: commit
+      #   run: |
+      #     git config --global user.email fszhuangb@gmail.com
+      #     git config --global user.name fszhuangb
+      #     git add .
+      #     git diff --exit-code || git commit -am "update"
+
+
+      # - name: Push changes
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN}}
 
