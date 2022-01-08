@@ -47,6 +47,10 @@ jobs:
         with:
           commit_message: Update changes
 
+          branch: main
+
+          
+
       # - name: commit
       #   run: |
       #     git config --global user.email fszhuangb@gmail.com
