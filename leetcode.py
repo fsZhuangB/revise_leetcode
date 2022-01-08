@@ -172,7 +172,7 @@ def generate_markdown_text(response_data, session):
 
 
 
-
+#
 if __name__ == '__main__':
     session = login(sys.argv[1], sys.argv[2]) # 登录，第一个参数为leetcode邮箱账号，第二个参数为leetcode密码
     response_data = get_accepted_problems(session) # 获取所有通过的题目列表
