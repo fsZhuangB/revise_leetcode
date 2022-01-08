@@ -21,11 +21,18 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-08 16:17 | [#89 格雷编码](https://leetcode-cn.com/problems/gray-code) | MEDIUM | 1 | 1 |
+| 2022-01-08 15:55 | [#717 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | EASY | 1 | 1 |
+| 2022-01-08 15:38 | [#513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value) | MEDIUM | 1 | 1 |
+| 2022-01-08 15:29 | [#404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves) | EASY | 3 | 1 |
+| 2022-01-08 08:45 | [#257 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) | EASY | 2 | **2** |
+| 2022-01-08 08:30 | [#110 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree) | EASY | 6 | **2** |
+| 2022-01-07 11:15 | [#77 组合](https://leetcode-cn.com/problems/combinations) | MEDIUM | 1 | 1 |
+| 2022-01-07 08:18 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | EASY | 4 | **2** |
+| 2022-01-07 08:10 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 7 | **4** |
 | 2022-01-06 10:40 | [#222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes) | MEDIUM | 1 | 1 |
 | 2022-01-06 10:33 | [#107 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | MEDIUM | 1 | 1 |
-| 2022-01-06 10:29 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | EASY | 2 | 1 |
 | 2022-01-06 10:09 | [#559 N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) | EASY | 1 | 1 |
-| 2022-01-06 09:56 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 5 | **3** |
 | 2022-01-06 09:07 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 5 | **3** |
 | 2022-01-06 08:43 | [#165 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | MEDIUM | 2 | **2** |
 | 2022-01-06 08:29 | [#350 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | EASY | 6 | **2** |
