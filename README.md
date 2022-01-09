@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-09 12:58 | [#700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | EASY | 2 | 1 |
+| 2022-01-09 10:50 | [#146 LRU 缓存](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 2 | 1 |
 | 2022-01-09 08:29 | [#404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves) | EASY | 5 | **2** |
 | 2022-01-09 08:26 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | EASY | 5 | **4** |
 | 2022-01-09 08:10 | [#110 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree) | EASY | 7 | **3** |
