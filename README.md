@@ -21,12 +21,13 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-09 08:29 | [#404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves) | EASY | 5 | **2** |
+| 2022-01-09 08:26 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | EASY | 5 | **4** |
+| 2022-01-09 08:10 | [#110 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree) | EASY | 7 | **3** |
 | 2022-01-08 19:50 | [#89 格雷编码](https://leetcode-cn.com/problems/gray-code) | MEDIUM | 3 | 1 |
 | 2022-01-08 15:55 | [#717 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | EASY | 1 | 1 |
 | 2022-01-08 15:38 | [#513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value) | MEDIUM | 1 | 1 |
-| 2022-01-08 15:29 | [#404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves) | EASY | 3 | 1 |
 | 2022-01-08 08:45 | [#257 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) | EASY | 2 | **2** |
-| 2022-01-08 08:30 | [#110 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree) | EASY | 6 | **2** |
 | 2022-01-07 11:15 | [#77 组合](https://leetcode-cn.com/problems/combinations) | MEDIUM | 1 | 1 |
 | 2022-01-07 08:18 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | EASY | 4 | **2** |
 | 2022-01-07 08:10 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 7 | **4** |
@@ -60,7 +61,6 @@
 | 2021-12-31 08:02 | [#209 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum) | MEDIUM | 18 | **6** |
 | 2021-12-30 18:43 | [#383 赎金信](https://leetcode-cn.com/problems/ransom-note) | EASY | 1 | 1 |
 | 2021-12-30 18:01 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | MEDIUM | 1 | 1 |
-| 2021-12-30 17:41 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | EASY | 4 | **3** |
 | 2021-12-30 17:16 | [#374 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower) | EASY | 1 | 1 |
 | 2021-12-30 17:12 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | EASY | 1 | 1 |
 | 2021-12-30 16:53 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 13 | **3** |
