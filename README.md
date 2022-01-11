@@ -21,9 +21,15 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-01-10 19:58 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 1 | 1 |
-| 2022-01-10 18:34 | [#113 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) | MEDIUM | 1 | 1 |
-| 2022-01-10 18:17 | [#112 路径总和](https://leetcode-cn.com/problems/path-sum) | EASY | 2 | 1 |
+| 2022-01-11 15:20 | [#105 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | MEDIUM | 1 | 1 |
+| 2022-01-11 15:05 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 2 | **2** |
+| 2022-01-11 11:07 | [#98 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | MEDIUM | 2 | 1 |
+| 2022-01-11 10:56 | [#113 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) | MEDIUM | 3 | **2** |
+| 2022-01-11 10:34 | [#257 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) | EASY | 3 | **3** |
+| 2022-01-11 10:06 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | EASY | 5 | **3** |
+| 2022-01-11 09:54 | [#112 路径总和](https://leetcode-cn.com/problems/path-sum) | EASY | 3 | **2** |
+| 2022-01-11 09:43 | [#119 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | EASY | 1 | 1 |
+| 2022-01-11 08:53 | [#118 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | EASY | 2 | **2** |
 | 2022-01-10 11:19 | [#146 LRU 缓存](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 3 | **2** |
 | 2022-01-09 12:58 | [#700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | EASY | 2 | 1 |
 | 2022-01-09 08:29 | [#404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves) | EASY | 5 | **2** |
@@ -32,9 +38,7 @@
 | 2022-01-08 19:50 | [#89 格雷编码](https://leetcode-cn.com/problems/gray-code) | MEDIUM | 3 | 1 |
 | 2022-01-08 15:55 | [#717 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | EASY | 1 | 1 |
 | 2022-01-08 15:38 | [#513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value) | MEDIUM | 1 | 1 |
-| 2022-01-08 08:45 | [#257 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) | EASY | 2 | **2** |
 | 2022-01-07 11:15 | [#77 组合](https://leetcode-cn.com/problems/combinations) | MEDIUM | 1 | 1 |
-| 2022-01-07 08:18 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | EASY | 4 | **2** |
 | 2022-01-07 08:10 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 7 | **4** |
 | 2022-01-06 10:40 | [#222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes) | MEDIUM | 1 | 1 |
 | 2022-01-06 10:33 | [#107 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | MEDIUM | 1 | 1 |
@@ -139,7 +143,6 @@
 | 2021-11-04 17:49 | [#6 Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion) | MEDIUM | 2 | 1 |
 | 2021-11-02 18:56 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | MEDIUM | 8 | **2** |
 | 2021-10-31 20:07 | [#2 两数相加](https://leetcode-cn.com/problems/add-two-numbers) | MEDIUM | 1 | 1 |
-| 2020-05-11 11:20 | [#118 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | EASY | 1 | 1 |
 | 2020-05-10 09:21 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | EASY | 4 | **2** |
 | 2020-05-09 19:39 | [#66 加一](https://leetcode-cn.com/problems/plus-one) | EASY | 5 | 1 |
 | 2020-05-03 17:34 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 1 | 1 |
