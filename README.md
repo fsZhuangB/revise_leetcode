@@ -21,9 +21,11 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-01-14 11:10 | [#654 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree) | MEDIUM | 1 | 1 |
-| 2022-01-14 10:31 | [#114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 2 | 1 |
-| 2022-01-14 10:03 | [#437 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | MEDIUM | 8 | **3** |
+| 2022-01-15 10:44 | [#617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | EASY | 2 | 1 |
+| 2022-01-15 10:33 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 6 | **4** |
+| 2022-01-15 10:05 | [#114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 3 | **2** |
+| 2022-01-15 09:56 | [#437 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | MEDIUM | 9 | **4** |
+| 2022-01-15 09:49 | [#654 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree) | MEDIUM | 2 | **2** |
 | 2022-01-12 22:34 | [#129 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | MEDIUM | 2 | 1 |
 | 2022-01-12 15:55 | [#103 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 2 | 1 |
 | 2022-01-12 10:37 | [#113 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) | MEDIUM | 4 | **3** |
@@ -49,7 +51,6 @@
 | 2022-01-06 10:40 | [#222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes) | MEDIUM | 1 | 1 |
 | 2022-01-06 10:33 | [#107 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | MEDIUM | 1 | 1 |
 | 2022-01-06 10:09 | [#559 N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) | EASY | 1 | 1 |
-| 2022-01-06 09:07 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 5 | **3** |
 | 2022-01-06 08:43 | [#165 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | MEDIUM | 2 | **2** |
 | 2022-01-06 08:29 | [#350 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | EASY | 6 | **2** |
 | 2022-01-06 08:16 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 12 | **4** |
