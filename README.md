@@ -21,7 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-01-15 10:44 | [#617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | EASY | 2 | 1 |
+| 2022-01-16 08:29 | [#617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | EASY | 3 | **2** |
 | 2022-01-15 10:33 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 6 | **4** |
 | 2022-01-15 10:05 | [#114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 3 | **2** |
 | 2022-01-15 09:56 | [#437 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | MEDIUM | 9 | **4** |
