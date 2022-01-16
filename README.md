@@ -21,6 +21,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-16 15:56 | [#150 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | MEDIUM | 1 | 1 |
+| 2022-01-16 09:21 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 1 | 1 |
+| 2022-01-16 09:10 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 9 | **6** |
+| 2022-01-16 08:41 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 3 | **3** |
 | 2022-01-16 08:29 | [#617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | EASY | 3 | **2** |
 | 2022-01-15 10:33 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 6 | **4** |
 | 2022-01-15 10:05 | [#114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 3 | **2** |
@@ -33,7 +37,6 @@
 | 2022-01-12 10:15 | [#105 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | MEDIUM | 2 | **2** |
 | 2022-01-12 09:40 | [#98 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | MEDIUM | 3 | **2** |
 | 2022-01-12 08:16 | [#257 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) | EASY | 4 | **4** |
-| 2022-01-11 15:05 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 2 | **2** |
 | 2022-01-11 10:06 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | EASY | 5 | **3** |
 | 2022-01-11 09:54 | [#112 路径总和](https://leetcode-cn.com/problems/path-sum) | EASY | 3 | **2** |
 | 2022-01-11 09:43 | [#119 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | EASY | 1 | 1 |
@@ -73,7 +76,6 @@
 | 2022-01-01 09:49 | [#11 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | MEDIUM | 3 | **2** |
 | 2022-01-01 09:43 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 14 | **5** |
 | 2021-12-31 08:27 | [#226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | EASY | 4 | **2** |
-| 2021-12-31 08:14 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 7 | **5** |
 | 2021-12-31 08:02 | [#209 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum) | MEDIUM | 18 | **6** |
 | 2021-12-30 18:43 | [#383 赎金信](https://leetcode-cn.com/problems/ransom-note) | EASY | 1 | 1 |
 | 2021-12-30 18:01 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | MEDIUM | 1 | 1 |
