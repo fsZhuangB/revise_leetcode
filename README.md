@@ -21,7 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-01-17 08:33 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 2 | **2** |
+| 2022-01-17 11:00 | [#414 第三大的数](https://leetcode-cn.com/problems/third-maximum-number) | EASY | 3 | 1 |
+| 2022-01-17 09:31 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 3 | **2** |
 | 2022-01-16 15:56 | [#150 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | MEDIUM | 1 | 1 |
 | 2022-01-16 09:10 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 9 | **6** |
 | 2022-01-16 08:41 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 3 | **3** |
