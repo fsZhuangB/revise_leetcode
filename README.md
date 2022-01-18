@@ -21,6 +21,12 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-18 12:29 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 3 | 1 |
+| 2022-01-18 11:29 | [#216 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii) | MEDIUM | 2 | 1 |
+| 2022-01-18 11:01 | [#77 组合](https://leetcode-cn.com/problems/combinations) | MEDIUM | 3 | **2** |
+| 2022-01-18 10:26 | [#451 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency) | MEDIUM | 1 | 1 |
+| 2022-01-18 10:08 | [#692 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words) | MEDIUM | 1 | 1 |
+| 2022-01-18 09:55 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | MEDIUM | 1 | 1 |
 | 2022-01-17 11:00 | [#414 第三大的数](https://leetcode-cn.com/problems/third-maximum-number) | EASY | 3 | 1 |
 | 2022-01-17 09:31 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 3 | **2** |
 | 2022-01-16 15:56 | [#150 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | MEDIUM | 1 | 1 |
@@ -50,7 +56,6 @@
 | 2022-01-08 19:50 | [#89 格雷编码](https://leetcode-cn.com/problems/gray-code) | MEDIUM | 3 | 1 |
 | 2022-01-08 15:55 | [#717 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | EASY | 1 | 1 |
 | 2022-01-08 15:38 | [#513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value) | MEDIUM | 1 | 1 |
-| 2022-01-07 11:15 | [#77 组合](https://leetcode-cn.com/problems/combinations) | MEDIUM | 1 | 1 |
 | 2022-01-07 08:10 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 7 | **4** |
 | 2022-01-06 10:40 | [#222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes) | MEDIUM | 1 | 1 |
 | 2022-01-06 10:33 | [#107 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | MEDIUM | 1 | 1 |
