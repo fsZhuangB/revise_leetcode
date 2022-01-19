@@ -21,9 +21,11 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-01-18 12:29 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 3 | 1 |
-| 2022-01-18 11:29 | [#216 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii) | MEDIUM | 2 | 1 |
-| 2022-01-18 11:01 | [#77 组合](https://leetcode-cn.com/problems/combinations) | MEDIUM | 3 | **2** |
+| 2022-01-19 15:47 | [#40 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | MEDIUM | 1 | 1 |
+| 2022-01-19 15:34 | [#39 组合总和](https://leetcode-cn.com/problems/combination-sum) | MEDIUM | 1 | 1 |
+| 2022-01-19 11:35 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 4 | **2** |
+| 2022-01-19 11:10 | [#216 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii) | MEDIUM | 3 | **2** |
+| 2022-01-19 10:41 | [#77 组合](https://leetcode-cn.com/problems/combinations) | MEDIUM | 4 | **3** |
 | 2022-01-18 10:26 | [#451 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency) | MEDIUM | 1 | 1 |
 | 2022-01-18 10:08 | [#692 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words) | MEDIUM | 1 | 1 |
 | 2022-01-18 09:55 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | MEDIUM | 1 | 1 |
