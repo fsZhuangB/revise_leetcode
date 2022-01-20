@@ -21,7 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-01-19 15:47 | [#40 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | MEDIUM | 1 | 1 |
+| 2022-01-20 11:06 | [#40 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | MEDIUM | 2 | **2** |
 | 2022-01-19 15:34 | [#39 组合总和](https://leetcode-cn.com/problems/combination-sum) | MEDIUM | 1 | 1 |
 | 2022-01-19 11:35 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 4 | **2** |
 | 2022-01-19 11:10 | [#216 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii) | MEDIUM | 3 | **2** |
