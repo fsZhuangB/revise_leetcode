@@ -21,10 +21,12 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-24 10:59 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 2 | 1 |
+| 2022-01-24 10:34 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 1 | 1 |
+| 2022-01-24 10:21 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 3 | **2** |
+| 2022-01-24 09:23 | [#93 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses) | MEDIUM | 4 | **2** |
+| 2022-01-24 08:51 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | MEDIUM | 3 | **3** |
 | 2022-01-23 10:44 | [#455 分发饼干](https://leetcode-cn.com/problems/assign-cookies) | EASY | 1 | 1 |
-| 2022-01-23 10:18 | [#93 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses) | MEDIUM | 2 | 1 |
-| 2022-01-23 09:21 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 1 | 1 |
-| 2022-01-23 08:21 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | MEDIUM | 2 | **2** |
 | 2022-01-21 07:47 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 5 | **3** |
 | 2022-01-21 07:33 | [#77 组合](https://leetcode-cn.com/problems/combinations) | MEDIUM | 5 | **4** |
 | 2022-01-20 11:06 | [#40 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | MEDIUM | 2 | **2** |
