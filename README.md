@@ -21,13 +21,16 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-01-24 10:59 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 2 | 1 |
-| 2022-01-24 10:34 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 1 | 1 |
-| 2022-01-24 10:21 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 3 | **2** |
+| 2022-01-25 11:19 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 4 | **2** |
+| 2022-01-25 10:46 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 2 | 1 |
+| 2022-01-25 10:24 | [#491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences) | MEDIUM | 1 | 1 |
+| 2022-01-25 10:04 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 6 | **4** |
+| 2022-01-25 09:53 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 4 | **2** |
+| 2022-01-25 09:48 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 3 | **2** |
+| 2022-01-25 09:35 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 5 | **3** |
 | 2022-01-24 09:23 | [#93 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses) | MEDIUM | 4 | **2** |
 | 2022-01-24 08:51 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | MEDIUM | 3 | **3** |
 | 2022-01-23 10:44 | [#455 分发饼干](https://leetcode-cn.com/problems/assign-cookies) | EASY | 1 | 1 |
-| 2022-01-21 07:47 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 5 | **3** |
 | 2022-01-21 07:33 | [#77 组合](https://leetcode-cn.com/problems/combinations) | MEDIUM | 5 | **4** |
 | 2022-01-20 11:06 | [#40 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | MEDIUM | 2 | **2** |
 | 2022-01-19 15:34 | [#39 组合总和](https://leetcode-cn.com/problems/combination-sum) | MEDIUM | 1 | 1 |
@@ -168,7 +171,6 @@
 | 2021-10-31 20:07 | [#2 两数相加](https://leetcode-cn.com/problems/add-two-numbers) | MEDIUM | 1 | 1 |
 | 2020-05-10 09:21 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | EASY | 4 | **2** |
 | 2020-05-09 19:39 | [#66 加一](https://leetcode-cn.com/problems/plus-one) | EASY | 5 | 1 |
-| 2020-05-03 17:34 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 1 | 1 |
 | 2020-05-03 15:38 | [#剑指 Offer 18 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof) | EASY | 4 | **2** |
 | 2020-05-02 10:05 | [#面试题 02.06 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list-lcci) | EASY | 5 | 1 |
 | 2020-05-02 09:25 | [#9 回文数](https://leetcode-cn.com/problems/palindrome-number) | EASY | 15 | **3** |
