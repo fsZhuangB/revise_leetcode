@@ -21,10 +21,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-26 08:31 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 7 | **5** |
 | 2022-01-25 11:19 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 4 | **2** |
 | 2022-01-25 10:46 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 2 | 1 |
 | 2022-01-25 10:24 | [#491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences) | MEDIUM | 1 | 1 |
-| 2022-01-25 10:04 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 6 | **4** |
 | 2022-01-25 09:53 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 4 | **2** |
 | 2022-01-25 09:48 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 3 | **2** |
 | 2022-01-25 09:35 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 5 | **3** |
