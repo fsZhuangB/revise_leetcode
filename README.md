@@ -21,10 +21,12 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-26 11:01 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 1 | 1 |
+| 2022-01-26 10:38 | [#491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences) | MEDIUM | 2 | **2** |
+| 2022-01-26 10:19 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 7 | **2** |
+| 2022-01-26 10:08 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 5 | **3** |
+| 2022-01-26 09:55 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 5 | **3** |
 | 2022-01-26 08:31 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 7 | **5** |
-| 2022-01-25 11:19 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 4 | **2** |
-| 2022-01-25 10:46 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 2 | 1 |
-| 2022-01-25 10:24 | [#491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences) | MEDIUM | 1 | 1 |
 | 2022-01-25 09:53 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 4 | **2** |
 | 2022-01-25 09:48 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 3 | **2** |
 | 2022-01-25 09:35 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 5 | **3** |
@@ -39,7 +41,6 @@
 | 2022-01-18 10:08 | [#692 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words) | MEDIUM | 1 | 1 |
 | 2022-01-18 09:55 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | MEDIUM | 1 | 1 |
 | 2022-01-17 11:00 | [#414 第三大的数](https://leetcode-cn.com/problems/third-maximum-number) | EASY | 3 | 1 |
-| 2022-01-17 09:31 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 3 | **2** |
 | 2022-01-16 15:56 | [#150 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | MEDIUM | 1 | 1 |
 | 2022-01-16 09:10 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 9 | **6** |
 | 2022-01-16 08:41 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 3 | **3** |
