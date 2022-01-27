@@ -21,11 +21,11 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-01-26 11:01 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 1 | 1 |
+| 2022-01-27 14:21 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 6 | **4** |
+| 2022-01-27 09:46 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 2 | **2** |
+| 2022-01-27 09:33 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 9 | **3** |
 | 2022-01-26 10:38 | [#491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences) | MEDIUM | 2 | **2** |
-| 2022-01-26 10:19 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 7 | **2** |
 | 2022-01-26 10:08 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 5 | **3** |
-| 2022-01-26 09:55 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 5 | **3** |
 | 2022-01-26 08:31 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 7 | **5** |
 | 2022-01-25 09:53 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 4 | **2** |
 | 2022-01-25 09:48 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 3 | **2** |
