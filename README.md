@@ -21,6 +21,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-28 11:47 | [#25 K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | HARD | 3 | **3** |
+| 2022-01-28 11:12 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 16 | **9** |
+| 2022-01-28 10:48 | [#912 排序数组](https://leetcode-cn.com/problems/sort-an-array) | MEDIUM | 1 | 1 |
 | 2022-01-27 14:21 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 6 | **4** |
 | 2022-01-27 09:46 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 2 | **2** |
 | 2022-01-27 09:33 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 9 | **3** |
@@ -105,8 +108,6 @@
 | 2021-12-28 11:05 | [#217 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | EASY | 2 | **2** |
 | 2021-12-27 22:57 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 13 | **7** |
 | 2021-12-26 10:35 | [#2119 反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal) | EASY | 1 | 1 |
-| 2021-12-26 08:31 | [#25 K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | HARD | 2 | **2** |
-| 2021-12-25 08:44 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 14 | **8** |
 | 2021-12-25 08:28 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 7 | **2** |
 | 2021-12-24 13:49 | [#147 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list) | MEDIUM | 5 | **3** |
 | 2021-12-23 10:39 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 16 | **9** |
