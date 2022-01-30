@@ -21,6 +21,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-01-30 13:16 | [#5981 分组得分最高的所有下标](https://leetcode-cn.com/problems/all-divisions-with-the-highest-score-of-a-binary-array) | MEDIUM | 1 | 1 |
+| 2022-01-30 13:03 | [#50 Pow(x, n)](https://leetcode-cn.com/problems/powx-n) | MEDIUM | 2 | 1 |
+| 2022-01-30 10:34 | [#5993 将找到的值乘以 2](https://leetcode-cn.com/problems/keep-multiplying-found-values-by-two) | EASY | 1 | 1 |
 | 2022-01-29 20:53 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2022-01-29 20:23 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 5 | 1 |
 | 2022-01-29 19:36 | [#121 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | EASY | 2 | 1 |
