@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-02 21:42 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 1 | 1 |
 | 2022-02-01 18:07 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | MEDIUM | 4 | **4** |
 | 2022-02-01 09:12 | [#69 x 的平方根 ](https://leetcode-cn.com/problems/sqrtx) | EASY | 3 | **2** |
 | 2022-02-01 09:07 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | MEDIUM | 2 | **2** |
