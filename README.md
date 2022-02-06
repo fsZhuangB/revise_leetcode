@@ -21,7 +21,13 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-02-04 10:56 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | MEDIUM | 2 | 1 |
+| 2022-02-06 19:16 | [#235 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | EASY | 1 | 1 |
+| 2022-02-06 18:46 | [#236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 1 | 1 |
+| 2022-02-06 18:33 | [#501 二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) | EASY | 2 | 1 |
+| 2022-02-06 18:02 | [#530 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) | EASY | 2 | 1 |
+| 2022-02-06 10:07 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 18 | **10** |
+| 2022-02-06 09:46 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 5 | **3** |
+| 2022-02-06 09:31 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | MEDIUM | 3 | **2** |
 | 2022-02-04 10:26 | [#695 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) | MEDIUM | 3 | 1 |
 | 2022-02-04 10:07 | [#463 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter) | EASY | 2 | **2** |
 | 2022-02-04 09:53 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | MEDIUM | 5 | **5** |
@@ -29,7 +35,6 @@
 | 2022-02-01 09:12 | [#69 x 的平方根 ](https://leetcode-cn.com/problems/sqrtx) | EASY | 3 | **2** |
 | 2022-02-01 09:07 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | MEDIUM | 2 | **2** |
 | 2022-01-31 14:13 | [#121 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | EASY | 3 | **2** |
-| 2022-01-31 13:58 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 3 | **2** |
 | 2022-01-31 13:37 | [#2155 分组得分最高的所有下标](https://leetcode-cn.com/problems/all-divisions-with-the-highest-score-of-a-binary-array) | MEDIUM | 3 | **2** |
 | 2022-01-30 13:03 | [#50 Pow(x, n)](https://leetcode-cn.com/problems/powx-n) | MEDIUM | 2 | 1 |
 | 2022-01-30 10:34 | [#2154 将找到的值乘以 2](https://leetcode-cn.com/problems/keep-multiplying-found-values-by-two) | EASY | 1 | 1 |
@@ -123,7 +128,6 @@
 | 2021-12-26 10:35 | [#2119 反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal) | EASY | 1 | 1 |
 | 2021-12-25 08:28 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 7 | **2** |
 | 2021-12-24 13:49 | [#147 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list) | MEDIUM | 5 | **3** |
-| 2021-12-23 10:39 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 16 | **9** |
 | 2021-12-21 11:12 | [#28 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) | EASY | 1 | 1 |
 | 2021-12-20 15:11 | [#54 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | MEDIUM | 2 | 1 |
 | 2021-12-20 12:20 | [#剑指 Offer 58 - II 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof) | EASY | 2 | 1 |
