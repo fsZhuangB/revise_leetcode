@@ -21,12 +21,18 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-07 17:06 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 1 | 1 |
+| 2022-02-07 16:49 | [#122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 1 | 1 |
+| 2022-02-07 16:37 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 5 | **3** |
+| 2022-02-07 16:28 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 4 | **3** |
+| 2022-02-07 10:23 | [#47 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | MEDIUM | 1 | 1 |
+| 2022-02-07 10:09 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 3 | **3** |
+| 2022-02-07 09:58 | [#501 二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) | EASY | 4 | **2** |
+| 2022-02-07 09:28 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 7 | **4** |
 | 2022-02-06 19:16 | [#235 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | EASY | 1 | 1 |
 | 2022-02-06 18:46 | [#236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 1 | 1 |
-| 2022-02-06 18:33 | [#501 二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) | EASY | 2 | 1 |
 | 2022-02-06 18:02 | [#530 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) | EASY | 2 | 1 |
 | 2022-02-06 10:07 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 18 | **10** |
-| 2022-02-06 09:46 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 5 | **3** |
 | 2022-02-06 09:31 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | MEDIUM | 3 | **2** |
 | 2022-02-04 10:26 | [#695 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) | MEDIUM | 3 | 1 |
 | 2022-02-04 10:07 | [#463 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter) | EASY | 2 | **2** |
@@ -43,13 +49,10 @@
 | 2022-01-28 11:12 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 16 | **9** |
 | 2022-01-28 10:48 | [#912 排序数组](https://leetcode-cn.com/problems/sort-an-array) | MEDIUM | 1 | 1 |
 | 2022-01-27 14:21 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 6 | **4** |
-| 2022-01-27 09:46 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 2 | **2** |
 | 2022-01-27 09:33 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 9 | **3** |
 | 2022-01-26 10:38 | [#491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences) | MEDIUM | 2 | **2** |
 | 2022-01-26 10:08 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 5 | **3** |
 | 2022-01-26 08:31 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 7 | **5** |
-| 2022-01-25 09:53 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 4 | **2** |
-| 2022-01-25 09:48 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 3 | **2** |
 | 2022-01-25 09:35 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 5 | **3** |
 | 2022-01-24 09:23 | [#93 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses) | MEDIUM | 4 | **2** |
 | 2022-01-24 08:51 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | MEDIUM | 3 | **3** |
