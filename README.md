@@ -21,16 +21,17 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-02-07 17:06 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 1 | 1 |
+| 2022-02-08 10:56 | [#45 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii) | MEDIUM | 1 | 1 |
+| 2022-02-08 10:37 | [#47 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | MEDIUM | 2 | **2** |
+| 2022-02-08 09:49 | [#235 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | EASY | 4 | **2** |
+| 2022-02-08 09:34 | [#236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 2 | **2** |
+| 2022-02-08 09:11 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 3 | **2** |
 | 2022-02-07 16:49 | [#122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 1 | 1 |
 | 2022-02-07 16:37 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 5 | **3** |
 | 2022-02-07 16:28 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 4 | **3** |
-| 2022-02-07 10:23 | [#47 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | MEDIUM | 1 | 1 |
 | 2022-02-07 10:09 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 3 | **3** |
 | 2022-02-07 09:58 | [#501 二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) | EASY | 4 | **2** |
 | 2022-02-07 09:28 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 7 | **4** |
-| 2022-02-06 19:16 | [#235 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | EASY | 1 | 1 |
-| 2022-02-06 18:46 | [#236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 1 | 1 |
 | 2022-02-06 18:02 | [#530 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) | EASY | 2 | 1 |
 | 2022-02-06 10:07 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 18 | **10** |
 | 2022-02-06 09:31 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | MEDIUM | 3 | **2** |
