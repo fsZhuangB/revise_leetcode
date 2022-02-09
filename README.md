@@ -21,14 +21,17 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-09 12:23 | [#134 加油站](https://leetcode-cn.com/problems/gas-station) | MEDIUM | 3 | 1 |
+| 2022-02-09 11:56 | [#1005 K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) | EASY | 2 | 1 |
+| 2022-02-09 11:37 | [#79 单词搜索](https://leetcode-cn.com/problems/word-search) | MEDIUM | 1 | 1 |
+| 2022-02-09 10:13 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 6 | **4** |
+| 2022-02-09 09:57 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 5 | **4** |
+| 2022-02-09 09:53 | [#47 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | MEDIUM | 4 | **3** |
 | 2022-02-08 10:56 | [#45 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii) | MEDIUM | 1 | 1 |
-| 2022-02-08 10:37 | [#47 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | MEDIUM | 2 | **2** |
 | 2022-02-08 09:49 | [#235 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | EASY | 4 | **2** |
 | 2022-02-08 09:34 | [#236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 2 | **2** |
 | 2022-02-08 09:11 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 3 | **2** |
 | 2022-02-07 16:49 | [#122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 1 | 1 |
-| 2022-02-07 16:37 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 5 | **3** |
-| 2022-02-07 16:28 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 4 | **3** |
 | 2022-02-07 10:09 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 3 | **3** |
 | 2022-02-07 09:58 | [#501 二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) | EASY | 4 | **2** |
 | 2022-02-07 09:28 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 7 | **4** |
