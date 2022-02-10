@@ -21,8 +21,11 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-02-09 12:23 | [#134 加油站](https://leetcode-cn.com/problems/gas-station) | MEDIUM | 3 | 1 |
-| 2022-02-09 11:56 | [#1005 K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) | EASY | 2 | 1 |
+| 2022-02-10 12:10 | [#860 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change) | EASY | 1 | 1 |
+| 2022-02-10 11:56 | [#135 分发糖果](https://leetcode-cn.com/problems/candy) | HARD | 1 | 1 |
+| 2022-02-10 11:23 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 2 | 1 |
+| 2022-02-10 10:39 | [#134 加油站](https://leetcode-cn.com/problems/gas-station) | MEDIUM | 5 | **2** |
+| 2022-02-10 10:12 | [#1005 K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) | EASY | 3 | **2** |
 | 2022-02-09 11:37 | [#79 单词搜索](https://leetcode-cn.com/problems/word-search) | MEDIUM | 1 | 1 |
 | 2022-02-09 10:13 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 6 | **4** |
 | 2022-02-09 09:57 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 5 | **4** |
