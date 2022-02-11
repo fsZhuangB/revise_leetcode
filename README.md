@@ -21,9 +21,13 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-11 11:56 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 2 | **2** |
+| 2022-02-11 11:02 | [#剑指 Offer 06 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof) | EASY | 2 | 1 |
+| 2022-02-11 10:49 | [#剑指 Offer 30 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof) | EASY | 1 | 1 |
+| 2022-02-11 10:19 | [#剑指 Offer 09 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) | EASY | 2 | 1 |
+| 2022-02-11 09:40 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 3 | **2** |
 | 2022-02-10 12:10 | [#860 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change) | EASY | 1 | 1 |
 | 2022-02-10 11:56 | [#135 分发糖果](https://leetcode-cn.com/problems/candy) | HARD | 1 | 1 |
-| 2022-02-10 11:23 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 2 | 1 |
 | 2022-02-10 10:39 | [#134 加油站](https://leetcode-cn.com/problems/gas-station) | MEDIUM | 5 | **2** |
 | 2022-02-10 10:12 | [#1005 K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) | EASY | 3 | **2** |
 | 2022-02-09 11:37 | [#79 单词搜索](https://leetcode-cn.com/problems/word-search) | MEDIUM | 1 | 1 |
@@ -44,7 +48,6 @@
 | 2022-02-04 10:26 | [#695 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) | MEDIUM | 3 | 1 |
 | 2022-02-04 10:07 | [#463 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter) | EASY | 2 | **2** |
 | 2022-02-04 09:53 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | MEDIUM | 5 | **5** |
-| 2022-02-02 21:42 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 1 | 1 |
 | 2022-02-01 09:12 | [#69 x 的平方根 ](https://leetcode-cn.com/problems/sqrtx) | EASY | 3 | **2** |
 | 2022-02-01 09:07 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | MEDIUM | 2 | **2** |
 | 2022-01-31 14:13 | [#121 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | EASY | 3 | **2** |
