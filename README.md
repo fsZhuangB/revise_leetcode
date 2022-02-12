@@ -21,9 +21,12 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-02-11 11:56 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 2 | **2** |
+| 2022-02-12 15:20 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 10 | **7** |
+| 2022-02-12 14:34 | [#146 LRU 缓存](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 4 | **3** |
+| 2022-02-12 10:49 | [#剑指 Offer 35 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof) | MEDIUM | 1 | 1 |
+| 2022-02-12 10:29 | [#剑指 Offer 30 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof) | EASY | 2 | **2** |
+| 2022-02-12 10:20 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 3 | **3** |
 | 2022-02-11 11:02 | [#剑指 Offer 06 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof) | EASY | 2 | 1 |
-| 2022-02-11 10:49 | [#剑指 Offer 30 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof) | EASY | 1 | 1 |
 | 2022-02-11 10:19 | [#剑指 Offer 09 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) | EASY | 2 | 1 |
 | 2022-02-11 09:40 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 3 | **2** |
 | 2022-02-10 12:10 | [#860 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change) | EASY | 1 | 1 |
@@ -76,7 +79,6 @@
 | 2022-01-18 09:55 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | MEDIUM | 1 | 1 |
 | 2022-01-17 11:00 | [#414 第三大的数](https://leetcode-cn.com/problems/third-maximum-number) | EASY | 3 | 1 |
 | 2022-01-16 15:56 | [#150 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | MEDIUM | 1 | 1 |
-| 2022-01-16 09:10 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 9 | **6** |
 | 2022-01-16 08:41 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 3 | **3** |
 | 2022-01-16 08:29 | [#617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | EASY | 3 | **2** |
 | 2022-01-15 10:33 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 6 | **4** |
@@ -94,7 +96,6 @@
 | 2022-01-11 09:54 | [#112 路径总和](https://leetcode-cn.com/problems/path-sum) | EASY | 3 | **2** |
 | 2022-01-11 09:43 | [#119 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | EASY | 1 | 1 |
 | 2022-01-11 08:53 | [#118 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | EASY | 2 | **2** |
-| 2022-01-10 11:19 | [#146 LRU 缓存](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 3 | **2** |
 | 2022-01-09 12:58 | [#700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | EASY | 2 | 1 |
 | 2022-01-09 08:29 | [#404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves) | EASY | 5 | **2** |
 | 2022-01-09 08:26 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | EASY | 5 | **4** |
