@@ -21,12 +21,13 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-02-12 15:20 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 10 | **7** |
+| 2022-02-13 10:36 | [#剑指 Offer 24 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof) | EASY | 2 | **2** |
+| 2022-02-13 10:35 | [#剑指 Offer 06 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof) | EASY | 3 | **2** |
+| 2022-02-13 10:35 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 11 | **8** |
 | 2022-02-12 14:34 | [#146 LRU 缓存](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 4 | **3** |
 | 2022-02-12 10:49 | [#剑指 Offer 35 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof) | MEDIUM | 1 | 1 |
 | 2022-02-12 10:29 | [#剑指 Offer 30 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof) | EASY | 2 | **2** |
 | 2022-02-12 10:20 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 3 | **3** |
-| 2022-02-11 11:02 | [#剑指 Offer 06 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof) | EASY | 2 | 1 |
 | 2022-02-11 10:19 | [#剑指 Offer 09 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) | EASY | 2 | 1 |
 | 2022-02-11 09:40 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 3 | **2** |
 | 2022-02-10 12:10 | [#860 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change) | EASY | 1 | 1 |
@@ -208,7 +209,6 @@
 | 2020-05-02 10:05 | [#面试题 02.06 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list-lcci) | EASY | 5 | 1 |
 | 2020-05-02 09:25 | [#9 回文数](https://leetcode-cn.com/problems/palindrome-number) | EASY | 15 | **3** |
 | 2020-04-28 08:21 | [#88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | EASY | 12 | **2** |
-| 2020-04-24 09:52 | [#剑指 Offer 24 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof) | EASY | 1 | 1 |
 | 2019-10-24 09:34 | [#876 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list) | EASY | 2 | 1 |
 | 2019-10-17 20:43 | [#234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | EASY | 3 | 1 |
 | 2019-09-27 09:16 | [#160 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | EASY | 2 | 1 |
