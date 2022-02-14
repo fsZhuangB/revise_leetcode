@@ -21,11 +21,15 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-14 16:39 | [#剑指 Offer 53 - I 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof) | EASY | 1 | 1 |
+| 2022-02-14 16:31 | [#剑指 Offer 03 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof) | EASY | 3 | 1 |
+| 2022-02-14 16:12 | [#剑指 Offer 58 - II 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof) | EASY | 3 | **2** |
+| 2022-02-14 16:07 | [#剑指 Offer 05 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof) | EASY | 2 | **2** |
+| 2022-02-14 15:19 | [#剑指 Offer 35 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof) | MEDIUM | 2 | **2** |
+| 2022-02-14 09:44 | [#146 LRU 缓存](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 6 | **4** |
 | 2022-02-13 10:36 | [#剑指 Offer 24 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof) | EASY | 2 | **2** |
 | 2022-02-13 10:35 | [#剑指 Offer 06 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof) | EASY | 3 | **2** |
 | 2022-02-13 10:35 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 11 | **8** |
-| 2022-02-12 14:34 | [#146 LRU 缓存](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 4 | **3** |
-| 2022-02-12 10:49 | [#剑指 Offer 35 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof) | MEDIUM | 1 | 1 |
 | 2022-02-12 10:29 | [#剑指 Offer 30 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof) | EASY | 2 | **2** |
 | 2022-02-12 10:20 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 3 | **3** |
 | 2022-02-11 10:19 | [#剑指 Offer 09 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) | EASY | 2 | 1 |
@@ -145,7 +149,6 @@
 | 2021-12-24 13:49 | [#147 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list) | MEDIUM | 5 | **3** |
 | 2021-12-21 11:12 | [#28 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) | EASY | 1 | 1 |
 | 2021-12-20 15:11 | [#54 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | MEDIUM | 2 | 1 |
-| 2021-12-20 12:20 | [#剑指 Offer 58 - II 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof) | EASY | 2 | 1 |
 | 2021-12-20 11:48 | [#151 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) | MEDIUM | 2 | 1 |
 | 2021-12-20 10:28 | [#541 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii) | EASY | 1 | 1 |
 | 2021-12-20 09:55 | [#2109 向字符串添加空格](https://leetcode-cn.com/problems/adding-spaces-to-a-string) | MEDIUM | 4 | **2** |
@@ -167,7 +170,6 @@
 | 2021-12-10 10:42 | [#203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | EASY | 3 | **2** |
 | 2021-12-09 13:26 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 11 | **5** |
 | 2021-12-09 13:01 | [#237 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | EASY | 1 | 1 |
-| 2021-12-06 09:05 | [#剑指 Offer 05 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof) | EASY | 1 | 1 |
 | 2021-12-06 08:28 | [#27 移除元素](https://leetcode-cn.com/problems/remove-element) | EASY | 8 | **4** |
 | 2021-12-04 10:23 | [#977 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | EASY | 2 | 1 |
 | 2021-12-03 07:56 | [#202 快乐数](https://leetcode-cn.com/problems/happy-number) | EASY | 2 | 1 |
