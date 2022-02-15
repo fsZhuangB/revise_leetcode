@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-15 19:07 | [#70 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | EASY | 5 | **3** |
 | 2022-02-14 16:39 | [#剑指 Offer 53 - I 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof) | EASY | 1 | 1 |
 | 2022-02-14 16:31 | [#剑指 Offer 03 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof) | EASY | 3 | 1 |
 | 2022-02-14 16:12 | [#剑指 Offer 58 - II 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof) | EASY | 3 | **2** |
@@ -197,7 +198,6 @@
 | 2021-11-18 09:59 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 15 | **3** |
 | 2021-11-16 12:07 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 2 | 1 |
 | 2021-11-16 11:19 | [#746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs) | EASY | 4 | **2** |
-| 2021-11-14 10:24 | [#70 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | EASY | 4 | **2** |
 | 2021-11-13 10:39 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 1 | 1 |
 | 2021-11-12 11:09 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 12 | **5** |
 | 2021-11-06 15:38 | [#14 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix) | EASY | 4 | **2** |
