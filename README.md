@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-16 10:40 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 13 | **6** |
 | 2022-02-15 21:30 | [#268 丢失的数字](https://leetcode-cn.com/problems/missing-number) | EASY | 2 | 1 |
 | 2022-02-15 19:07 | [#70 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | EASY | 5 | **3** |
 | 2022-02-14 16:39 | [#剑指 Offer 53 - I 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof) | EASY | 1 | 1 |
@@ -117,7 +118,6 @@
 | 2022-01-06 08:43 | [#165 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | MEDIUM | 2 | **2** |
 | 2022-01-06 08:29 | [#350 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | EASY | 6 | **2** |
 | 2022-01-06 08:16 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 12 | **4** |
-| 2022-01-05 22:30 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 12 | **5** |
 | 2022-01-05 13:44 | [#1576 替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters) | EASY | 3 | 1 |
 | 2022-01-04 12:20 | [#167 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | MEDIUM | 4 | 1 |
 | 2022-01-03 13:18 | [#572 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | EASY | 1 | 1 |
