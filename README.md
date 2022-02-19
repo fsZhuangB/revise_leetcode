@@ -21,17 +21,20 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-02-19 10:36 | [#96 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees) | MEDIUM | 1 | 1 |
+| 2022-02-19 10:17 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | MEDIUM | 5 | **2** |
+| 2022-02-19 09:58 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 3 | **2** |
+| 2022-02-19 09:49 | [#70 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | EASY | 8 | **4** |
+| 2022-02-19 09:30 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 8 | **5** |
+| 2022-02-19 09:27 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 14 | **10** |
 | 2022-02-18 11:22 | [#剑指 Offer 50 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof) | EASY | 2 | 1 |
 | 2022-02-18 11:07 | [#647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings) | MEDIUM | 2 | 1 |
-| 2022-02-18 10:31 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 7 | **4** |
-| 2022-02-18 09:39 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 12 | **9** |
 | 2022-02-17 10:27 | [#122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 2 | **2** |
 | 2022-02-17 10:23 | [#剑指 Offer 11 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof) | EASY | 2 | 1 |
 | 2022-02-17 09:54 | [#剑指 Offer 04 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof) | MEDIUM | 1 | 1 |
 | 2022-02-17 09:43 | [#剑指 Offer 53 - II 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof) | EASY | 2 | 1 |
 | 2022-02-16 10:40 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 13 | **6** |
 | 2022-02-15 21:30 | [#268 丢失的数字](https://leetcode-cn.com/problems/missing-number) | EASY | 2 | 1 |
-| 2022-02-15 19:07 | [#70 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | EASY | 5 | **3** |
 | 2022-02-14 16:39 | [#剑指 Offer 53 - I 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof) | EASY | 1 | 1 |
 | 2022-02-14 16:31 | [#剑指 Offer 03 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof) | EASY | 3 | 1 |
 | 2022-02-14 16:12 | [#剑指 Offer 58 - II 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof) | EASY | 3 | **2** |
@@ -200,9 +203,7 @@
 | 2021-11-20 17:53 | [#225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | EASY | 2 | 1 |
 | 2021-11-20 09:36 | [#1047 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string) | EASY | 3 | **2** |
 | 2021-11-19 10:43 | [#232 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | EASY | 1 | 1 |
-| 2021-11-18 10:37 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | MEDIUM | 3 | 1 |
 | 2021-11-18 09:59 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 15 | **3** |
-| 2021-11-16 12:07 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 2 | 1 |
 | 2021-11-16 11:19 | [#746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs) | EASY | 4 | **2** |
 | 2021-11-13 10:39 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 1 | 1 |
 | 2021-11-12 11:09 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 12 | **5** |
