@@ -21,7 +21,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-02-19 10:36 | [#96 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees) | MEDIUM | 1 | 1 |
+| 2022-02-20 12:09 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | EASY | 3 | **2** |
+| 2022-02-20 10:21 | [#96 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees) | MEDIUM | 2 | **2** |
+| 2022-02-20 10:10 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 8 | **5** |
+| 2022-02-20 09:07 | [#1614 括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses) | EASY | 1 | 1 |
 | 2022-02-19 10:17 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | MEDIUM | 5 | **2** |
 | 2022-02-19 09:58 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 3 | **2** |
 | 2022-02-19 09:49 | [#70 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | EASY | 8 | **4** |
@@ -78,7 +81,6 @@
 | 2022-01-28 11:47 | [#25 K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | HARD | 3 | **3** |
 | 2022-01-28 11:12 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 16 | **9** |
 | 2022-01-28 10:48 | [#912 排序数组](https://leetcode-cn.com/problems/sort-an-array) | MEDIUM | 1 | 1 |
-| 2022-01-27 14:21 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 6 | **4** |
 | 2022-01-27 09:33 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 9 | **3** |
 | 2022-01-26 10:38 | [#491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences) | MEDIUM | 2 | **2** |
 | 2022-01-26 08:31 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 7 | **5** |
@@ -196,7 +198,6 @@
 | 2021-11-27 09:27 | [#1137 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number) | EASY | 1 | 1 |
 | 2021-11-26 10:29 | [#509 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) | EASY | 4 | 1 |
 | 2021-11-26 08:24 | [#343 整数拆分](https://leetcode-cn.com/problems/integer-break) | MEDIUM | 5 | **3** |
-| 2021-11-23 10:33 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | EASY | 2 | 1 |
 | 2021-11-22 08:13 | [#2080 区间内查询数字的频率](https://leetcode-cn.com/problems/range-frequency-queries) | MEDIUM | 6 | 1 |
 | 2021-11-21 11:52 | [#2079 给植物浇水](https://leetcode-cn.com/problems/watering-plants) | MEDIUM | 1 | 1 |
 | 2021-11-21 10:38 | [#2078 两栋颜色不同且距离最远的房子](https://leetcode-cn.com/problems/two-furthest-houses-with-different-colors) | EASY | 1 | 1 |
