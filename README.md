@@ -119,7 +119,7 @@
 | 2022-01-09 08:26 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | EASY | 5 | **4** |
 | 2022-01-09 08:10 | [#110 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree) | EASY | 7 | **3** |
 | 2022-01-08 19:50 | [#89 格雷编码](https://leetcode-cn.com/problems/gray-code) | MEDIUM | 3 | 1 |
-| 2022-01-08 15:55 | [#717 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | EASY | 1 | 1 |
+| 2022-01-08 15:55 | [#717 1 比特与 2 比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | EASY | 1 | 1 |
 | 2022-01-08 15:38 | [#513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value) | MEDIUM | 1 | 1 |
 | 2022-01-07 08:10 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 7 | **4** |
 | 2022-01-06 10:40 | [#222 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes) | MEDIUM | 1 | 1 |
