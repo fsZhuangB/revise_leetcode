@@ -21,9 +21,12 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-02-26 08:32 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 14 | **7** |
+| 2022-02-27 10:59 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | MEDIUM | 1 | 1 |
+| 2022-02-27 10:32 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 14 | **5** |
+| 2022-02-27 10:24 | [#242 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram) | EASY | 3 | **2** |
+| 2022-02-27 10:19 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 15 | **8** |
+| 2022-02-27 10:08 | [#59 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii) | MEDIUM | 4 | **3** |
 | 2022-02-26 08:21 | [#912 排序数组](https://leetcode-cn.com/problems/sort-an-array) | MEDIUM | 5 | **3** |
-| 2022-02-25 11:38 | [#59 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii) | MEDIUM | 3 | **2** |
 | 2022-02-25 11:00 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 13 | **6** |
 | 2022-02-25 10:06 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 12 | **8** |
 | 2022-02-24 08:39 | [#416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | MEDIUM | 7 | **3** |
@@ -136,7 +139,6 @@
 | 2022-01-06 10:09 | [#559 N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) | EASY | 1 | 1 |
 | 2022-01-06 08:43 | [#165 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | MEDIUM | 2 | **2** |
 | 2022-01-06 08:29 | [#350 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | EASY | 6 | **2** |
-| 2022-01-06 08:16 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 12 | **4** |
 | 2022-01-05 13:44 | [#1576 替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters) | EASY | 3 | 1 |
 | 2022-01-04 12:20 | [#167 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | MEDIUM | 4 | 1 |
 | 2022-01-03 13:18 | [#572 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | EASY | 1 | 1 |
@@ -191,7 +193,6 @@
 | 2021-12-03 07:56 | [#202 快乐数](https://leetcode-cn.com/problems/happy-number) | EASY | 2 | 1 |
 | 2021-12-03 07:33 | [#49 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams) | MEDIUM | 2 | **2** |
 | 2021-12-02 10:44 | [#349 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays) | EASY | 2 | 1 |
-| 2021-12-02 10:19 | [#242 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram) | EASY | 2 | 1 |
 | 2021-12-01 10:32 | [#2091 从数组中移除最大值和最小值](https://leetcode-cn.com/problems/removing-minimum-and-maximum-from-array) | MEDIUM | 6 | 1 |
 | 2021-12-01 09:49 | [#643 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i) | EASY | 8 | 1 |
 | 2021-11-30 09:59 | [#560 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | MEDIUM | 9 | 1 |
