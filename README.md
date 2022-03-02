@@ -21,7 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-03-01 11:02 | [#912 排序数组](https://leetcode-cn.com/problems/sort-an-array) | MEDIUM | 6 | **4** |
+| 2022-03-02 08:24 | [#912 排序数组](https://leetcode-cn.com/problems/sort-an-array) | MEDIUM | 10 | **5** |
 | 2022-03-01 10:24 | [#452 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons) | MEDIUM | 1 | 1 |
 | 2022-03-01 09:58 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 4 | **3** |
 | 2022-03-01 09:34 | [#54 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | MEDIUM | 7 | **3** |
