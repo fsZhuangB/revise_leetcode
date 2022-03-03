@@ -21,7 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-03-02 13:31 | [#203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | EASY | 4 | **3** |
+| 2022-03-03 08:22 | [#203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | EASY | 7 | **4** |
 | 2022-03-02 13:18 | [#707 设计链表](https://leetcode-cn.com/problems/design-linked-list) | MEDIUM | 13 | **4** |
 | 2022-03-02 08:24 | [#912 排序数组](https://leetcode-cn.com/problems/sort-an-array) | MEDIUM | 10 | **5** |
 | 2022-03-01 10:24 | [#452 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons) | MEDIUM | 1 | 1 |
