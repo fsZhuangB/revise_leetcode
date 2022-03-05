@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-05 09:07 | [#521 最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i) | EASY | 1 | 1 |
 | 2022-03-03 08:22 | [#203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | EASY | 7 | **4** |
 | 2022-03-02 13:18 | [#707 设计链表](https://leetcode-cn.com/problems/design-linked-list) | MEDIUM | 13 | **4** |
 | 2022-03-02 08:24 | [#912 排序数组](https://leetcode-cn.com/problems/sort-an-array) | MEDIUM | 10 | **5** |
