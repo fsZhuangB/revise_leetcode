@@ -21,6 +21,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-08 11:10 | [#169 多数元素](https://leetcode-cn.com/problems/majority-element) | EASY | 3 | 1 |
+| 2022-03-08 10:37 | [#225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | EASY | 4 | **2** |
+| 2022-03-08 09:51 | [#232 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | EASY | 2 | **2** |
 | 2022-03-07 11:21 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 8 | **3** |
 | 2022-03-07 11:14 | [#147 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list) | MEDIUM | 6 | **4** |
 | 2022-03-07 10:36 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 14 | **7** |
@@ -209,9 +212,7 @@
 | 2021-11-22 08:13 | [#2080 区间内查询数字的频率](https://leetcode-cn.com/problems/range-frequency-queries) | MEDIUM | 6 | 1 |
 | 2021-11-21 11:52 | [#2079 给植物浇水](https://leetcode-cn.com/problems/watering-plants) | MEDIUM | 1 | 1 |
 | 2021-11-21 10:38 | [#2078 两栋颜色不同且距离最远的房子](https://leetcode-cn.com/problems/two-furthest-houses-with-different-colors) | EASY | 1 | 1 |
-| 2021-11-20 17:53 | [#225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | EASY | 2 | 1 |
 | 2021-11-20 09:36 | [#1047 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string) | EASY | 3 | **2** |
-| 2021-11-19 10:43 | [#232 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | EASY | 1 | 1 |
 | 2021-11-18 09:59 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 15 | **3** |
 | 2021-11-16 11:19 | [#746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs) | EASY | 4 | **2** |
 | 2021-11-13 10:39 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 1 | 1 |
