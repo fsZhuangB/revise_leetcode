@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-09 09:27 | [#139 单词拆分](https://leetcode-cn.com/problems/word-break) | MEDIUM | 1 | 1 |
 | 2022-03-08 11:10 | [#169 多数元素](https://leetcode-cn.com/problems/majority-element) | EASY | 3 | 1 |
 | 2022-03-08 10:37 | [#225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | EASY | 4 | **2** |
 | 2022-03-08 09:51 | [#232 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | EASY | 2 | **2** |
