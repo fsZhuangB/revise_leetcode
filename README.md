@@ -21,6 +21,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-11 11:08 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 6 | **2** |
+| 2022-03-11 10:37 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 18 | **4** |
+| 2022-03-11 09:52 | [#125 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | EASY | 5 | **2** |
 | 2022-03-10 08:28 | [#115 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences) | HARD | 2 | 1 |
 | 2022-03-09 09:27 | [#139 单词拆分](https://leetcode-cn.com/problems/word-break) | MEDIUM | 1 | 1 |
 | 2022-03-08 11:10 | [#169 多数元素](https://leetcode-cn.com/problems/majority-element) | EASY | 3 | 1 |
@@ -110,7 +113,6 @@
 | 2022-01-31 13:37 | [#2155 分组得分最高的所有下标](https://leetcode-cn.com/problems/all-divisions-with-the-highest-score-of-a-binary-array) | MEDIUM | 3 | **2** |
 | 2022-01-30 13:03 | [#50 Pow(x, n)](https://leetcode-cn.com/problems/powx-n) | MEDIUM | 2 | 1 |
 | 2022-01-30 10:34 | [#2154 将找到的值乘以 2](https://leetcode-cn.com/problems/keep-multiplying-found-values-by-two) | EASY | 1 | 1 |
-| 2022-01-29 20:23 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 5 | 1 |
 | 2022-01-28 11:47 | [#25 K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | HARD | 3 | **3** |
 | 2022-01-28 11:12 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 16 | **9** |
 | 2022-01-27 09:33 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 9 | **3** |
@@ -169,7 +171,6 @@
 | 2022-01-03 10:26 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 6 | **2** |
 | 2022-01-03 09:31 | [#1185 一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week) | EASY | 1 | 1 |
 | 2022-01-02 21:14 | [#390 消除游戏](https://leetcode-cn.com/problems/elimination-game) | MEDIUM | 2 | 1 |
-| 2022-01-02 11:28 | [#125 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | EASY | 2 | 1 |
 | 2022-01-02 10:04 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 2 | **2** |
 | 2022-01-01 12:35 | [#2022 将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array) | EASY | 2 | 1 |
 | 2022-01-01 11:23 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 1 | 1 |
@@ -215,7 +216,6 @@
 | 2021-11-21 11:52 | [#2079 给植物浇水](https://leetcode-cn.com/problems/watering-plants) | MEDIUM | 1 | 1 |
 | 2021-11-21 10:38 | [#2078 两栋颜色不同且距离最远的房子](https://leetcode-cn.com/problems/two-furthest-houses-with-different-colors) | EASY | 1 | 1 |
 | 2021-11-20 09:36 | [#1047 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string) | EASY | 3 | **2** |
-| 2021-11-18 09:59 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 15 | **3** |
 | 2021-11-16 11:19 | [#746 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs) | EASY | 4 | **2** |
 | 2021-11-13 10:39 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 1 | 1 |
 | 2021-11-12 11:09 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 12 | **5** |
