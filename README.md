@@ -21,7 +21,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022-03-11 11:08 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 6 | **2** |
+| 2022-03-12 11:19 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | MEDIUM | 1 | 1 |
+| 2022-03-12 11:01 | [#143 重排链表](https://leetcode-cn.com/problems/reorder-list) | MEDIUM | 2 | 1 |
+| 2022-03-12 09:59 | [#103 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 3 | **2** |
+| 2022-03-12 09:41 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 7 | **3** |
 | 2022-03-11 10:37 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 18 | **4** |
 | 2022-03-11 09:52 | [#125 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | EASY | 5 | **2** |
 | 2022-03-10 08:28 | [#115 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences) | HARD | 2 | 1 |
@@ -138,7 +141,6 @@
 | 2022-01-15 09:56 | [#437 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | MEDIUM | 9 | **4** |
 | 2022-01-15 09:49 | [#654 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree) | MEDIUM | 2 | **2** |
 | 2022-01-12 22:34 | [#129 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | MEDIUM | 2 | 1 |
-| 2022-01-12 15:55 | [#103 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 2 | 1 |
 | 2022-01-12 10:37 | [#113 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) | MEDIUM | 4 | **3** |
 | 2022-01-12 10:29 | [#988 从叶结点开始的最小字符串](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf) | MEDIUM | 1 | 1 |
 | 2022-01-12 10:15 | [#105 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | MEDIUM | 2 | **2** |
