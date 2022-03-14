@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-14 09:48 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 6 | **4** |
 | 2022-03-12 11:19 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | MEDIUM | 1 | 1 |
 | 2022-03-12 11:01 | [#143 重排链表](https://leetcode-cn.com/problems/reorder-list) | MEDIUM | 2 | 1 |
 | 2022-03-12 09:59 | [#103 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 3 | **2** |
@@ -121,7 +122,6 @@
 | 2022-01-27 09:33 | [#376 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | MEDIUM | 9 | **3** |
 | 2022-01-26 10:38 | [#491 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences) | MEDIUM | 2 | **2** |
 | 2022-01-26 08:31 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 7 | **5** |
-| 2022-01-25 09:35 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 5 | **3** |
 | 2022-01-24 09:23 | [#93 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses) | MEDIUM | 4 | **2** |
 | 2022-01-24 08:51 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | MEDIUM | 3 | **3** |
 | 2022-01-23 10:44 | [#455 分发饼干](https://leetcode-cn.com/problems/assign-cookies) | EASY | 1 | 1 |
