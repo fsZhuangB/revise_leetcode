@@ -189,7 +189,7 @@
 | 2021-12-27 22:57 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 13 | **7** |
 | 2021-12-26 10:35 | [#2119 反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal) | EASY | 1 | 1 |
 | 2021-12-21 11:12 | [#28 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) | EASY | 1 | 1 |
-| 2021-12-20 11:48 | [#151 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) | MEDIUM | 2 | 1 |
+| 2021-12-20 11:48 | [#151 颠倒字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) | MEDIUM | 2 | 1 |
 | 2021-12-20 10:28 | [#541 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii) | EASY | 1 | 1 |
 | 2021-12-20 09:55 | [#2109 向字符串添加空格](https://leetcode-cn.com/problems/adding-spaces-to-a-string) | MEDIUM | 4 | **2** |
 | 2021-12-19 12:58 | [#2110 股票平滑下跌阶段的数目](https://leetcode-cn.com/problems/number-of-smooth-descent-periods-of-a-stock) | MEDIUM | 5 | 1 |
