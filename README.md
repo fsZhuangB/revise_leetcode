@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-16 12:12 | [#115 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences) | HARD | 3 | **2** |
 | 2022-03-15 17:08 | [#403 青蛙过河](https://leetcode-cn.com/problems/frog-jump) | HARD | 1 | 1 |
 | 2022-03-15 10:40 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 13 | **6** |
 | 2022-03-15 10:15 | [#958 二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree) | MEDIUM | 1 | 1 |
@@ -34,7 +35,6 @@
 | 2022-03-12 09:41 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 7 | **3** |
 | 2022-03-11 10:37 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 18 | **4** |
 | 2022-03-11 09:52 | [#125 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | EASY | 5 | **2** |
-| 2022-03-10 08:28 | [#115 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences) | HARD | 2 | 1 |
 | 2022-03-09 09:27 | [#139 单词拆分](https://leetcode-cn.com/problems/word-break) | MEDIUM | 1 | 1 |
 | 2022-03-08 11:10 | [#169 多数元素](https://leetcode-cn.com/problems/majority-element) | EASY | 3 | 1 |
 | 2022-03-08 10:37 | [#225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | EASY | 4 | **2** |
