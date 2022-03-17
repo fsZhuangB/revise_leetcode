@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-17 10:49 | [#300 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | MEDIUM | 1 | 1 |
+| 2022-03-17 10:17 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 11 | **6** |
 | 2022-03-16 12:12 | [#115 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences) | HARD | 3 | **2** |
 | 2022-03-15 17:08 | [#403 青蛙过河](https://leetcode-cn.com/problems/frog-jump) | HARD | 1 | 1 |
 | 2022-03-15 10:40 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 13 | **6** |
@@ -75,7 +77,6 @@
 | 2022-02-19 10:17 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | MEDIUM | 5 | **2** |
 | 2022-02-19 09:58 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 3 | **2** |
 | 2022-02-19 09:49 | [#70 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | EASY | 8 | **4** |
-| 2022-02-19 09:30 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 8 | **5** |
 | 2022-02-18 11:22 | [#面试题50 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof) | EASY | 2 | 1 |
 | 2022-02-18 11:07 | [#647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings) | MEDIUM | 2 | 1 |
 | 2022-02-17 10:27 | [#122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 2 | **2** |
