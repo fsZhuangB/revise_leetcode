@@ -81,7 +81,7 @@
 | 2022-02-19 10:17 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | MEDIUM | 5 | **2** |
 | 2022-02-19 09:58 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 3 | **2** |
 | 2022-02-19 09:49 | [#70 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | EASY | 8 | **4** |
-| 2022-02-18 11:22 | [#面试题50 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof) | EASY | 2 | 1 |
+| 2022-02-18 11:22 | [#剑指 Offer 50 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof) | EASY | 2 | 1 |
 | 2022-02-18 11:07 | [#647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings) | MEDIUM | 2 | 1 |
 | 2022-02-17 10:27 | [#122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 2 | **2** |
 | 2022-02-17 10:23 | [#剑指 Offer 11 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof) | EASY | 2 | 1 |
