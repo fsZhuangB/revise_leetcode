@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-29 19:50 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 17 | **8** |
 | 2022-03-20 22:32 | [#239 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum) | HARD | 1 | 1 |
 | 2022-03-19 11:04 | [#91 解码方法](https://leetcode-cn.com/problems/decode-ways) | MEDIUM | 1 | 1 |
 | 2022-03-19 10:43 | [#606 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree) | EASY | 2 | 1 |
@@ -195,7 +196,6 @@
 | 2021-12-28 12:32 | [#76 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) | HARD | 1 | 1 |
 | 2021-12-28 11:37 | [#219 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii) | EASY | 5 | **2** |
 | 2021-12-28 11:05 | [#217 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | EASY | 2 | **2** |
-| 2021-12-27 22:57 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 13 | **7** |
 | 2021-12-26 10:35 | [#2119 反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal) | EASY | 1 | 1 |
 | 2021-12-21 11:12 | [#28 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) | EASY | 1 | 1 |
 | 2021-12-20 11:48 | [#151 颠倒字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) | MEDIUM | 2 | 1 |
