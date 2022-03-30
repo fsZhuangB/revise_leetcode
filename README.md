@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-30 10:55 | [#2024 考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam) | MEDIUM | 2 | 1 |
+| 2022-03-30 10:41 | [#1004 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii) | MEDIUM | 1 | 1 |
 | 2022-03-29 19:50 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 17 | **8** |
 | 2022-03-20 22:32 | [#239 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum) | HARD | 1 | 1 |
 | 2022-03-19 11:04 | [#91 解码方法](https://leetcode-cn.com/problems/decode-ways) | MEDIUM | 1 | 1 |
