@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-03-31 10:46 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | EASY | 6 | **3** |
+| 2022-03-31 10:33 | [#728 自除数](https://leetcode-cn.com/problems/self-dividing-numbers) | EASY | 2 | 1 |
 | 2022-03-30 10:55 | [#2024 考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam) | MEDIUM | 2 | 1 |
 | 2022-03-30 10:41 | [#1004 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii) | MEDIUM | 1 | 1 |
 | 2022-03-29 19:50 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 17 | **8** |
@@ -79,7 +81,6 @@
 | 2022-02-22 09:38 | [#1049 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii) | MEDIUM | 2 | 1 |
 | 2022-02-21 11:44 | [#27 移除元素](https://leetcode-cn.com/problems/remove-element) | EASY | 11 | **5** |
 | 2022-02-21 09:14 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | EASY | 5 | **3** |
-| 2022-02-20 12:09 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | EASY | 3 | **2** |
 | 2022-02-20 09:07 | [#1614 括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses) | EASY | 1 | 1 |
 | 2022-02-19 10:17 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | MEDIUM | 5 | **2** |
 | 2022-02-19 09:58 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 3 | **2** |
