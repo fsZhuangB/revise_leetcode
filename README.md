@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-04-02 10:46 | [#954 二倍数对数组](https://leetcode-cn.com/problems/array-of-doubled-pairs) | MEDIUM | 2 | 1 |
 | 2022-03-31 10:46 | [#704 二分查找](https://leetcode-cn.com/problems/binary-search) | EASY | 6 | **3** |
 | 2022-03-31 10:33 | [#728 自除数](https://leetcode-cn.com/problems/self-dividing-numbers) | EASY | 2 | 1 |
 | 2022-03-30 10:55 | [#2024 考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam) | MEDIUM | 2 | 1 |
