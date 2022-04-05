@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-04-05 10:54 | [#204 计数质数](https://leetcode-cn.com/problems/count-primes) | MEDIUM | 6 | 1 |
+| 2022-04-05 10:34 | [#762 二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation) | EASY | 1 | 1 |
 | 2022-04-04 21:18 | [#307 区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable) | MEDIUM | 1 | 1 |
 | 2022-04-04 11:01 | [#744 寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target) | EASY | 2 | 1 |
 | 2022-04-02 21:20 | [#420 强密码检验器](https://leetcode-cn.com/problems/strong-password-checker) | HARD | 1 | 1 |
