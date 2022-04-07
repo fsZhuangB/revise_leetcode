@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-04-07 19:24 | [#796 旋转字符串](https://leetcode-cn.com/problems/rotate-string) | EASY | 1 | 1 |
+| 2022-04-07 19:19 | [#653 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst) | EASY | 1 | 1 |
 | 2022-04-06 16:46 | [#310 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees) | MEDIUM | 1 | 1 |
 | 2022-04-05 10:54 | [#204 计数质数](https://leetcode-cn.com/problems/count-primes) | MEDIUM | 6 | 1 |
 | 2022-04-05 10:34 | [#762 二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation) | EASY | 1 | 1 |
