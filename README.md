@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-04-08 22:46 | [#429 N 叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal) | MEDIUM | 1 | 1 |
 | 2022-04-07 19:24 | [#796 旋转字符串](https://leetcode-cn.com/problems/rotate-string) | EASY | 1 | 1 |
 | 2022-04-07 19:19 | [#653 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst) | EASY | 1 | 1 |
 | 2022-04-06 16:46 | [#310 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees) | MEDIUM | 1 | 1 |
